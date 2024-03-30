@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://readme-template-kappa.vercel.app/api?username=ki-ki13)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://readme-template-kappa.vercel.app/api?username=ki-ki13&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kiki's github stats" /> | <img align="center" src="https://readme-template-kappa.vercel.app/api/top-langs/?username=ki-ki13&layout=compact&theme=buefy&hide_border=true" /> |
