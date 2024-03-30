@@ -1,4 +1,7 @@
 Hi! 👋, I'm a self-taught passionate fullstack developer from Indonesia 🇮🇩
+<br><br>
+<p align=center><img src="./img/Group 6.png" width=300></p>
+<br><br>
 
 **About me**
 
